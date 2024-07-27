@@ -1,5 +1,5 @@
 body{
-background-color:#E8AA14;
+background-color:#B33C86;
 font-family: "font-family: "Ga Maamli", sans-serif;
 }
 
@@ -10,7 +10,7 @@ text-align: center;
 }
 
 h2{
-color:#1CFFC6 ;
+color:#gold ;
 text-align: center;
 }
 
@@ -65,8 +65,9 @@ nav ul li a{
    justify-content:center;
 }
 
-
-
+.book {text-align: right;}
+#favBook {text-align: right;
+         margin-right: 100px}
 
 
 
